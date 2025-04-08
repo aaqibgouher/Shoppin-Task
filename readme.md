@@ -30,4 +30,7 @@ Ensure your system meets the following requirements before proceeding:
     ```bash
    npm run dev
 
+## Crawl
+Once server is started, we can invoke GET API /api/crawl and it will start crawling products from different domains. We can see a log as well in the terminal, and at the end will be getting JSON Response.
+
 Once server is started, we can start crawling ...
